@@ -1,0 +1,11 @@
+{
+    "name": "mtr/placeholder",
+    "description": "output base64 placeholder image",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "MTR": "src/"
+        }
+    }
+}
